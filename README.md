@@ -1,2 +1,2 @@
-# Rainmeter-Skins
-Simple Rainmeter Skins I made for myself... You might or might not find it useful :3
+# Rainmeter-Skins [Please check the Link first]
+Using HWiNFO with Rainmeter --> [Click here for Documentation and Instructions](https://docs.rainmeter.net/tips/hwinfo/)
